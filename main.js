@@ -2,7 +2,7 @@
 // import { clearCart } from "./clearCart";
 
 const productDiv = document.getElementById('product-list');
-const dataUrl = './assets/data/products.json';
+const dataUrl = './src/assets/data/products.json';
 
 fetchProducts()
 async function fetchProducts() {
