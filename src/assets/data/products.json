@@ -1,0 +1,74 @@
+[
+  {
+    "id": 11,
+    "title": "JBL PartyBox",
+    "price": 549,
+    "image": "https://www.jbhifi.com.au/cdn/shop/products/629100-Product-0-I-638155012398827611.jpg?v=1679864900",
+    "description": "Amazing JBL Original Pro Sound, A light show that syncs to the beat, Up to 10 hours of play time.",
+    "quantity": 1
+  },
+  {
+    "id": 12,
+    "title": "Bose SoundLink Flex",
+    "price": 249,
+    "image": "https://www.jbhifi.com.au/cdn/shop/products/584210-Product-0-I-637813768180250249.jpg?v=1656039953",
+    "description": "Delivers clear, deep sound and powerful bass, PositionIQ™ technology detects orientation and optimizes the sound.",
+    "quantity": 1
+  },
+  {
+    "id": 13,
+    "title": "Ultimate Ears Wonderboom 3",
+    "price": 99,
+    "image": "https://www.jbhifi.com.au/cdn/shop/products/600689-Product-0-I-637962360794737645.jpg?v=1660603366",
+    "description": "Booming bass with bigger 360-degree sound, Waterproof, dustproof, and floatable.",
+    "quantity": 1
+  },
+  {
+    "id": 14,
+    "title": "Bose QuietComfort 45",
+    "price": 495,
+    "image": "https://www.jbhifi.com.au/cdn/shop/products/530250-Product-0-I-637661757749087236_e964a51e-0f15-41b4-9ff8-f66a3ab19674.jpg?v=1676849932",
+    "description": "World-class noise cancelling and high fidelity audio, Up to 22-hour battery life.",
+    "quantity": 1
+  },
+  {
+    "id": 15,
+    "title": "Apple AirPods Pro",
+    "price": 350,
+    "image": "https://www.jbhifi.com.au/cdn/shop/products/597966-Product-0-I-637982508440512496.jpg?v=1662697559",
+    "description": "Active Noise Cancellation reduces unwanted background noise, Charging case with speaker for locating.",
+    "quantity": 1
+  },
+  {
+    "id": 16,
+    "title": "Samsung Galaxy Buds2 Pro",
+    "price": 210,
+    "image": "https://www.jbhifi.com.au/cdn/shop/products/597881-Product-0-I-637956544977233714.jpg?v=1660142219",
+    "description": "End-to-end 24Bit Hi-Fi processing unfolds layers of notes and detail, 2-Way Dynamic Speaker for 360 Audio.",
+    "quantity": 1
+  },
+  {
+    "id": 17,
+    "title": "JBL PartyBox 110 ",
+    "price": 249,
+    "image": "https://www.jbhifi.com.au/cdn/shop/products/544700-Product-0-I-637696486085758895.jpg?v=1634012281",
+    "description": "Powerful JBL Original Pro Sound, Dynamic light show that syncs to the beat.",
+    "quantity": 1
+  },
+  {
+    "id": 18,
+    "title": "Skullcandy Crusher Evo",
+    "price": 300,
+    "image": "https://www.jbhifi.com.au/cdn/shop/products/609885-Product-0-I-637988248040448914.jpg?v=1663732266",
+    "description": "Adjustable Sensory Bass, Personal Sound by Audiodo, Wireless via Bluetooth v5.0.",
+    "quantity": 1
+  },
+  {
+    "id": 19,
+    "title": "Beats Studio 3",
+    "price": 450,
+    "image": "https://www.jbhifi.com.au/cdn/shop/products/440929-Product-0-I-637229812270999627.jpg?v=1587348496",
+    "description": "Beats Pure Adaptive Noise Canceling, Up to 22 hours of battery life.",
+    "quantity": 1
+  }
+]
